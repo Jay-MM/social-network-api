@@ -26,8 +26,8 @@
   ## [Usage](#table-of-contents)
 1. invoke the application using the command line
 2. Use [insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to test CRUD functionality
-<br>
-[Click here to walk through video demonstrating the CRUD functionality!](https://raw.githubusercontent.com/Jay-MM/social-network-api/main/assets/social-network-api-walkthrough-video.mp4)
+
+[Click here to walk through video demonstrating the CRUD functionality](https://raw.githubusercontent.com/Jay-MM/social-network-api/main/assets/social-network-api-walkthrough-video.mp4)
   
   ![app being tested with insomnia ](assets/Screenshot_20230208_053423.png)
   ## [Credits](#table-of-contents)
